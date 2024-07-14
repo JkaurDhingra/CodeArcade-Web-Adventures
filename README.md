@@ -60,14 +60,6 @@ Contributions are welcome! Whether it's:
 - Proposing new features
 
 
-## Usage 🎮
-
-- Enter a number in the input field and click "Check" to make a guess.
-- Receive feedback based on your guess and adjust your strategy to guess the correct number.
-- Try to achieve the highest score possible by guessing the number with the fewest attempts.
-- Click "Play Again" to reset the game and start a new round.
-
-
 ## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/JkaurDhingra/CodeArcade-Web-Adventures/blob/main/LICENSE) file for details.
