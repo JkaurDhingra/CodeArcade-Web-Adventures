@@ -30,17 +30,17 @@ Welcome to **CodeArcade Web Adventures**, a collection of games built using HTML
 
 ### Setup and Installation
 
-1. **Fork and Clone the Repository**
+1. **Fork and Clone the Repository:**
    To get started with contributing to our project, fork the repo and then clone it to your local machine:
    ```bash
     git clone https://github.com/JkaurDhingra/CodeArcade-Web-Adventures.git
     cd CodeArcade-Web-Adventures
    ```
 
-2. **Make Your Changes**
+2. **Make Your Changes:**
    Make the necessary modifications or additions to the project files.
 
-3. **Commit and Push**
+3. **Commit and Push:**
    Once you've made your changes, commit them and push to your fork:
    ```bash
     git add .
@@ -48,7 +48,7 @@ Welcome to **CodeArcade Web Adventures**, a collection of games built using HTML
     git push
    ```
 
-4. **Create a Pull Request**
+4. **Create a Pull Request:**
    Navigate back to the original repository and open a pull request from your forked repository.
 
 ### Contributing
