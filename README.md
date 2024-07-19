@@ -10,6 +10,7 @@ Welcome to **CodeArcade Web Adventures**, a collection of games built using HTML
 
 ## Games Included 🎯
 - [**Mindset Matcher: Number Quest**](https://github.com/JkaurDhingra/CodeArcade-Web-Adventures/tree/main/Mindset%20Matcher%3A%20Number%20Quest) : A classic game where players guess a number from 1 to 100, aiming for the highest score.
+- [**Rolling Triumph**](https://github.com/JkaurDhingra/CodeArcade-Web-Adventures/tree/main/Rolling%20Triumph) : A web game of dice strategy, aiming to reach a score threshold for victory.
 
 
 ## Features ✨
